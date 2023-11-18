@@ -28,4 +28,4 @@ jobs:
       with:
           name: dist-without-markdown
           path: |
-            synapse_auto_compressor/target/debug/*
+            ../synapse_auto_compressor/target/debug/*
